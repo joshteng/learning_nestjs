@@ -12,7 +12,6 @@ import { CoffeesModule } from './coffees/coffees.module';
       host: 'localhost',
       port: 5432,
       username: 'joshteng',
-      password: "hello",
       database: 'coffees',
       autoLoadEntities: true,
       synchronize: true
